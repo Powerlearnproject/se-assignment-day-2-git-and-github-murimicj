@@ -36,7 +36,7 @@ Important decisions include:
 1.Repository name
 2.Type of repository
 3.Type of license to be used .
-4.
+4.Collaborator management-type of collaborations and permisions to people for types of changes they can make.
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 
