@@ -47,6 +47,9 @@ Title- a clear brief title that summarizes the project.
 Description-a clear brief of features of the project and purposes
 Installation procedure-how to install and set up the project.
 Tutorial guide-Guide on how to use the project and its keys functionalities
+Contribution-explains how one can contribute either on code,testing orsuggestions.
+License-explains the type of license used.
+Contact information-this can include phone number,email, social media handles.
 
 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
