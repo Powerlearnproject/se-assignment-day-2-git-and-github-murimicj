@@ -28,6 +28,14 @@ Audit Trail: It creates an auditable record of all changes, making it easy to id
 1.Create a new repository- log in to github via github.com. Check for the + icon on the top right then click new repository.
 2. Choose a brief name for your repository the name you write should give back available in order for you to use it .
 3.Give a brief about your repository -short note on what it is about.
+4.Choose the type of repository whether public or private.
+5.Choose the type of license e.g MIT license.
+6.Initialize repository click the create repository button.
+
+Important decisions include:
+1.Repository name
+2.Type of repository
+3.Type of license to be used .
 4.
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
