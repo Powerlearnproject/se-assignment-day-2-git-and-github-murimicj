@@ -46,6 +46,7 @@ What should be included:
 Title- a clear brief title that summarizes the project.
 Description-a clear brief of features of the project and purposes
 Installation procedure-how to install and set up the project.
+Tutorial guide-Guide on how to use the project and its keys functionalities
 
 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
