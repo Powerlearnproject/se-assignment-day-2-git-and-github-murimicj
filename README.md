@@ -25,6 +25,11 @@ Audit Trail: It creates an auditable record of all changes, making it easy to id
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 
+1.Create a new repository- log in to github via github.com. Check for the + icon on the top right then click new repository.
+2. Choose a brief name for your repository the name you write should give back available in order for you to use it .
+3.Give a brief about your repository -short note on what it is about.
+4.
+
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
