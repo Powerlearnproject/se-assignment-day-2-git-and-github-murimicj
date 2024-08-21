@@ -51,8 +51,14 @@ Contribution-explains how one can contribute either on code,testing orsuggestion
 License-explains the type of license used.
 Contact information-this can include phone number,email, social media handles.
 
+How does it contribute to effective collaboration:
+Effective communication- there is an outline of instructions that are structured to guide the users and those who interact with the project.
+Reduces duplication-prevents duplicate questions and issues.
+Promotestransparency- everything is done in the public offering transparency among collaborators and contributors.
 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
+Public repository-anyone can access and view the code base facilitating collaboration as individuals can freely fork the repository ,make changes and submit pull requests while private repository codebase is only accessible to authorized groups or individuals thus repository owner can manage access permissions and approve contributions,.ensuring code quality and adherence to project standards.
+Advantages of public repository
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 
