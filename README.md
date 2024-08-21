@@ -44,7 +44,9 @@ README file outlines an overview of a repository in a consise manner.It outlines
 
 What should be included: 
 Title- a clear brief title that summarizes the project.
-Description-a clear brief of features of the project .
+Description-a clear brief of features of the project and purposes
+Installation procedure-how to install and set up the project.
+
 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
 
