@@ -72,7 +72,19 @@ Limited visibility-only invited collaborators can access code,limiting the proje
 Collaboration barriers-Only approved users can contribute to the project, which can hinder collaboration with external stakeholders.
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
+1.Create a new repository
+2.Initializa local git repository- open your project directory in your terminal.
+3.Initialize a local Git repository by running
+  git init
+4.Add files to stage   git add[File name]
+5.Write a commit message
+ git commit-m
+6.Push to github:enter
+ git push -u origin main
 
+Commit-snapshots of a project's state at a specific point in time.
+Tracking Changes - commits allow developers to track and document changes made to the project over time. Each commit includes a timestamp, author, and commit message.
+Versioning-commits create a sequence of project versions, allowing developers to easily revert to previous states or branch off from specific commits to explore different development paths.
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
